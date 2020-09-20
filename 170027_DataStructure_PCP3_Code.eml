@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/170027_DataStructure_PCP3_Code"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="TheDictionaryAPI_V1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/TheDictionaryAPI_V1.jar!/"/>
+		<relative-module-javadoc project-related="jar://$PROJECT_DIR$/TheDictionaryAPI_V1.jar!/doc"/>
+	</lib>
+	<lib name="junit-4.10.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/junit-4.10.jar!/"/>
+	</lib>
+</component>

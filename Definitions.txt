@@ -1,0 +1,11 @@
+CalculatorValues
+a
+4
+0.5
+m
+T
+x
+5
+0.4
+miles
+F

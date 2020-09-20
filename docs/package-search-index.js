@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"definitionPackage"},{"l":"lexicalAnalysisPackage"},{"l":"mainCalculatorPackage"},{"l":"parser"},{"l":"programManagementPackage"},{"l":"uNumberLibrary"}]

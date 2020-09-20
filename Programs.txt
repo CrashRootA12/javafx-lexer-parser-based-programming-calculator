@@ -1,0 +1,6 @@
+Dictionary
+First_Program
+	4+2*6
+
+Second_Program
+	11+2*5

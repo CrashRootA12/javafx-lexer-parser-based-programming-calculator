@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="170027_DataStructure_PCP2_Code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TheDictionaryAPI_V1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
